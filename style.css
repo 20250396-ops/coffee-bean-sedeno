@@ -1,0 +1,49 @@
+body {
+          font-family: Arial, sans-serif;
+          background-color: #f7f3f4;
+          color: #071d51;
+}
+
+*{
+          font-family: Arial, sans-serif;
+          background-color: #f7f7f6;
+          color: #071d51;
+}
+
+h1, h2{
+          color: #071d51;
+}
+
+.tip {
+            background-color: #f9b5c3;
+          color: #283d75;
+          padding: 20px;
+          margin: 20px 0;
+}
+
+.top {
+          background-color: #f9b5c3;
+          color: #283d75;
+          padding: 20px;
+          margin: 20px 0;
+}
+
+.foodtop{
+          background-color: #f9b5c3;
+          color: #283d75;
+          padding: 20px;
+          margin: 20px 0;
+}
+
+.foodtip{
+         background-color: #f9b5c3;
+          color: #283d75;
+          padding: 20px;
+          margin: 20px 0;
+}
+
+img{
+          border: 16px solid #e68397;
+          padding: 10px;
+          margin: 20px 0;
+}
